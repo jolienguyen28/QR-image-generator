@@ -1,0 +1,1 @@
+https://medium.com/geekculture/implement-a-sliding-window-using-python-31d1481842a7
